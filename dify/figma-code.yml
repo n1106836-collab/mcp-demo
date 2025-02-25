@@ -1,0 +1,348 @@
+app:
+  description: ''
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  mode: workflow
+  name: figma-code
+  use_icon_as_answer_icon: false
+kind: app
+version: 0.1.5
+workflow:
+  conversation_variables: []
+  environment_variables: []
+  features:
+    file_upload:
+      allowed_file_extensions:
+      - .JPG
+      - .JPEG
+      - .PNG
+      - .GIF
+      - .WEBP
+      - .SVG
+      allowed_file_types:
+      - image
+      allowed_file_upload_methods:
+      - local_file
+      - remote_url
+      enabled: false
+      fileUploadConfig:
+        audio_file_size_limit: 50
+        batch_count_limit: 5
+        file_size_limit: 15
+        image_file_size_limit: 10
+        video_file_size_limit: 100
+        workflow_file_upload_limit: 10
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+      number_limits: 3
+    opening_statement: ''
+    retriever_resource:
+      enabled: true
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        sourceType: start
+        targetType: llm
+      id: 1740471319242-source-1740471372735-target
+      source: '1740471319242'
+      sourceHandle: source
+      target: '1740471372735'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: llm
+        targetType: end
+      id: 1740485407682-source-1740471409714-target
+      source: '1740485407682'
+      sourceHandle: source
+      target: '1740471409714'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: start
+        targetType: llm
+      id: 1740471319242-source-1740485969891-target
+      source: '1740471319242'
+      sourceHandle: source
+      target: '1740485969891'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: llm
+        targetType: knowledge-retrieval
+      id: 1740485969891-source-1740485135494-target
+      source: '1740485969891'
+      sourceHandle: source
+      target: '1740485135494'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: llm
+        targetType: llm
+      id: 1740471372735-source-1740485407682-target
+      source: '1740471372735'
+      sourceHandle: source
+      target: '1740485407682'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        sourceType: knowledge-retrieval
+        targetType: llm
+      id: 1740485135494-source-1740485407682-target
+      source: '1740485135494'
+      sourceHandle: source
+      target: '1740485407682'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        desc: ''
+        selected: false
+        title: 开始
+        type: start
+        variables:
+        - allowed_file_extensions: []
+          allowed_file_types:
+          - image
+          allowed_file_upload_methods:
+          - local_file
+          - remote_url
+          label: image
+          max_length: 48
+          options: []
+          required: true
+          type: file
+          variable: image
+      height: 90
+      id: '1740471319242'
+      position:
+        x: 30
+        y: 249
+      positionAbsolute:
+        x: 30
+        y: 249
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: true
+          variable_selector:
+          - '1740471319242'
+          - image
+        desc: ''
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: gpt-4o-mini
+          provider: openai
+        prompt_template:
+        - id: 44af5952-8398-4cd2-bb3e-2ce39dc88c12
+          role: system
+          text: ''
+        - id: a5445643-bffa-4ed6-808f-8b4d48ed1d88
+          role: user
+          text: "# Role: 专业前端开发工程师  \n\n## Profile  \n- author: LangGPT  \n- version:\
+            \ 1.0  \n- language: 中文  \n- description: 你是一名专业的前端开发工程师，擅长使用 React，根据图片内容生成对应的\
+            \ React 代码。  \n\n## Skills  \n- 精通 React 及其生态系统（React Hooks、Context API、Redux）\
+            \  \n- 能够解析图片内容，并转化为对应的 React 代码结构  \n- 熟练使用 HTML、CSS、JavaScript 以及 Tailwind\
+            \ CSS 或 Styled-Components 进行样式设计  \n- 确保代码结构清晰、可维护，并符合最佳实践  \n\n## Rules\
+            \  \n1. 依据图片内容准确生成 React 代码，保证语义化和组件化  \n2. 确保代码可读性、可复用性，符合 React 开发规范\
+            \  \n3. 代码应包含必要的注释，帮助理解关键部分  \n4. 如果图片涉及动态交互，优先使用 React Hooks 进行实现  \n\
+            5. 代码输出应格式化，符合业界最佳实践  \n6. 对应图片：{{#context#}}\n7. 不要使用任何组件库，只使用原生 HTML\
+            \ 标签\n\n## Workflows  \n1. 解析图片内容，提取 UI 结构和交互元素  \n2. 设计组件层级，拆分为可复用的 React\
+            \ 组件  \n3. 编写 JSX 结构，并结合 CSS 进行样式实现  \n4. 如果涉及交互，使用 React Hooks 编写逻辑 \
+            \ \n5. 确保代码结构清晰，并输出完整的 React 代码  \n\n## OutputFormat  \n请按照以下格式输出代码： \
+            \ \n```jsx\n// 组件名称: {ComponentName}\n// 功能描述: {描述组件的功能}\n\nimport React\
+            \ from 'react';\nimport './styles.css'; // 可选，视具体情况决定\n\nconst {ComponentName}\
+            \ = () => {\n  return (\n    <div className=\"{className}\">\n      {/*\
+            \ 组件结构 */}\n    </div>\n  );\n};\n\nexport default {ComponentName};\n"
+        selected: false
+        title: LLM
+        type: llm
+        variables: []
+        vision:
+          configs:
+            detail: high
+            variable_selector:
+            - '1740471319242'
+            - image
+          enabled: true
+      height: 98
+      id: '1740471372735'
+      position:
+        x: 638
+        y: 249
+      positionAbsolute:
+        x: 638
+        y: 249
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        outputs:
+        - value_selector:
+          - '1740485407682'
+          - text
+          variable: text
+        selected: false
+        title: 结束
+        type: end
+      height: 90
+      id: '1740471409714'
+      position:
+        x: 1246
+        y: 249
+      positionAbsolute:
+        x: 1246
+        y: 249
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        dataset_ids:
+        - a13c633a-0afe-4ce4-a135-7dac9c6b9f33
+        desc: ''
+        multiple_retrieval_config:
+          reranking_enable: false
+          reranking_mode: reranking_model
+          reranking_model:
+            model: BAAI/bge-reranker-v2-m3
+            provider: siliconflow
+          score_threshold: null
+          top_k: 4
+        query_variable_selector:
+        - '1740485969891'
+        - text
+        retrieval_mode: multiple
+        selected: false
+        title: 知识检索
+        type: knowledge-retrieval
+      height: 92
+      id: '1740485135494'
+      position:
+        x: 638
+        y: 387
+      positionAbsolute:
+        x: 638
+        y: 387
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: true
+          variable_selector:
+          - '1740471372735'
+          - text
+        desc: ''
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: gpt-4o-mini
+          provider: openai
+        prompt_template:
+        - id: cdb1a670-b841-4a36-8148-beabbe9e193b
+          role: system
+          text: ''
+        - id: fb8342f7-afb5-4e45-acba-be0e19f427e4
+          role: user
+          text: 请结合知识检索信息{{#1740471372735.text#}}，将可以使用组件库的部分替换为用该组件库（Chakra UI）实现{{#context#}}
+        selected: false
+        title: LLM 2
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 98
+      id: '1740485407682'
+      position:
+        x: 942
+        y: 249
+      positionAbsolute:
+        x: 942
+        y: 249
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: true
+          variable_selector:
+          - '1740471319242'
+          - image
+        desc: ''
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: gpt-4o-mini
+          provider: openai
+        prompt_template:
+        - id: e26335da-0193-4a60-9e20-921ad433e468
+          role: system
+          text: ''
+        - role: user
+          text: 你是一个专业的前端工程师。分析图片，假设你要实现该图片的效果，列举该实现中可能用到的组件{{#context#}}
+        selected: false
+        title: LLM 3
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 98
+      id: '1740485969891'
+      position:
+        x: 334
+        y: 384
+      positionAbsolute:
+        x: 334
+        y: 384
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    viewport:
+      x: 0
+      y: 0
+      zoom: 0.7

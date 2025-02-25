@@ -1,0 +1,3171 @@
+{
+  "name": "Portfolio template - Edit this portfolio and export it as HTML - Get your portfolio live in no time (Community)",
+  "lastModified": "2025-02-24T16:22:10Z",
+  "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/52043389-30fc-458d-b13e-25d6e861f799?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3KF5IDEX%2F20250223%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250223T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ad78c2f8d35a736f8d1447e11b81eea1c10eec17526ce1dc283becc9e85e563",
+  "nodes": [
+    {
+      "id": "701:726",
+      "name": "Cover",
+      "type": "FRAME",
+      "fills": [
+        {
+          "type": "SOLID",
+          "hex": "#3B3B3B",
+          "opacity": 1
+        }
+      ],
+      "strokes": [],
+      "layout": {
+        "mode": "none",
+        "sizing": {}
+      },
+      "children": [
+        {
+          "id": "701:727",
+          "name": "Gallery 1281",
+          "type": "INSTANCE",
+          "fills": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokes": [],
+          "layout": {
+            "mode": "none",
+            "sizing": {}
+          },
+          "children": [
+            {
+              "id": "I701:727;9:172",
+              "name": "Latest work",
+              "type": "TEXT",
+              "text": "Latest work",
+              "textStyle": {
+                "fontFamily": "Epilogue",
+                "fontWeight": 600,
+                "fontSize": 32,
+                "lineHeight": "1.3125em",
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP"
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#2D2D2D",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              }
+            },
+            {
+              "id": "I701:727;9:178",
+              "name": "Gallery card 1280 - 1",
+              "type": "INSTANCE",
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#FFFFFF",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "I701:727;9:178;9:157",
+                  "name": "Project title",
+                  "type": "TEXT",
+                  "text": "Project title",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 600,
+                    "fontSize": 20,
+                    "lineHeight": "1.5em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:178;9:158",
+                  "name": "UI, Art drection",
+                  "type": "TEXT",
+                  "text": "UI, Art drection",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 400,
+                    "fontSize": 17,
+                    "lineHeight": "1.588235294117647em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:178;9:152",
+                  "name": "Rectangle 1181",
+                  "type": "RECTANGLE",
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "imageRef": "46acf5070c2b1eabe533e70cdfd6db0920cb88be",
+                      "scaleMode": "FILL"
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            },
+            {
+              "id": "I701:727;9:179",
+              "name": "Component 9",
+              "type": "INSTANCE",
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#FFFFFF",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "I701:727;9:179;9:157",
+                  "name": "Project title",
+                  "type": "TEXT",
+                  "text": "Project title",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 600,
+                    "fontSize": 20,
+                    "lineHeight": "1.5em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:179;9:158",
+                  "name": "UI, Art drection",
+                  "type": "TEXT",
+                  "text": "UI, Art drection",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 400,
+                    "fontSize": 17,
+                    "lineHeight": "1.588235294117647em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:179;9:152",
+                  "name": "Rectangle 1181",
+                  "type": "RECTANGLE",
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "imageRef": "ae5d91180b98e9e0920120c3b24ffbfe143d83cd",
+                      "scaleMode": "FILL"
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            },
+            {
+              "id": "I701:727;9:180",
+              "name": "Component 10",
+              "type": "INSTANCE",
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#FFFFFF",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "I701:727;9:180;9:157",
+                  "name": "Project title",
+                  "type": "TEXT",
+                  "text": "Project title",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 600,
+                    "fontSize": 20,
+                    "lineHeight": "1.5em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:180;9:158",
+                  "name": "UI, Art drection",
+                  "type": "TEXT",
+                  "text": "UI, Art drection",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 400,
+                    "fontSize": 17,
+                    "lineHeight": "1.588235294117647em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:180;9:152",
+                  "name": "Rectangle 1181",
+                  "type": "RECTANGLE",
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "imageRef": "3879de03212eab7e4fafca5165c55a151eca4a48",
+                      "scaleMode": "FILL"
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            },
+            {
+              "id": "I701:727;9:190",
+              "name": "Component 11",
+              "type": "INSTANCE",
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#FFFFFF",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "I701:727;9:190;9:157",
+                  "name": "Project title",
+                  "type": "TEXT",
+                  "text": "Project title",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 600,
+                    "fontSize": 20,
+                    "lineHeight": "1.5em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:190;9:158",
+                  "name": "UI, Art drection",
+                  "type": "TEXT",
+                  "text": "UI, Art drection",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 400,
+                    "fontSize": 17,
+                    "lineHeight": "1.588235294117647em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:190;9:152",
+                  "name": "Rectangle 1181",
+                  "type": "RECTANGLE",
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "imageRef": "7f90acac1fbd66440efa4e3870e0cd0b032f803b",
+                      "scaleMode": "FILL"
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            },
+            {
+              "id": "I701:727;9:191",
+              "name": "Component 12",
+              "type": "INSTANCE",
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#FFFFFF",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "I701:727;9:191;9:157",
+                  "name": "Project title",
+                  "type": "TEXT",
+                  "text": "Project title",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 600,
+                    "fontSize": 20,
+                    "lineHeight": "1.5em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:191;9:158",
+                  "name": "UI, Art drection",
+                  "type": "TEXT",
+                  "text": "UI, Art drection",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 400,
+                    "fontSize": 17,
+                    "lineHeight": "1.588235294117647em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:191;9:152",
+                  "name": "Rectangle 1181",
+                  "type": "RECTANGLE",
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "imageRef": "b15b0bea6c6f30cc354e8fe19b0d226e83daf314",
+                      "scaleMode": "FILL"
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            },
+            {
+              "id": "I701:727;9:192",
+              "name": "Component 13",
+              "type": "INSTANCE",
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#FFFFFF",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "I701:727;9:192;9:157",
+                  "name": "Project title",
+                  "type": "TEXT",
+                  "text": "Project title",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 600,
+                    "fontSize": 20,
+                    "lineHeight": "1.5em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:192;9:158",
+                  "name": "UI, Art drection",
+                  "type": "TEXT",
+                  "text": "UI, Art drection",
+                  "textStyle": {
+                    "fontFamily": "Epilogue",
+                    "fontWeight": 400,
+                    "fontSize": 17,
+                    "lineHeight": "1.588235294117647em",
+                    "textAlignHorizontal": "LEFT",
+                    "textAlignVertical": "TOP"
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "I701:727;9:192;9:152",
+                  "name": "Rectangle 1181",
+                  "type": "RECTANGLE",
+                  "fills": [
+                    {
+                      "type": "IMAGE",
+                      "imageRef": "69fd8f8e8891be0346bd7faea3a5ad6130b18107",
+                      "scaleMode": "FILL"
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "701:728",
+          "name": "Header Section",
+          "type": "INSTANCE",
+          "fills": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokes": [],
+          "layout": {
+            "mode": "row",
+            "justifyContent": "stretch",
+            "alignItems": "stretch",
+            "wrap": true,
+            "gap": "42.818748474121094px",
+            "padding": {
+              "top": "26.446874618530273px",
+              "right": "75.11000061035156px",
+              "bottom": "26.446874618530273px",
+              "left": "75.11000061035156px"
+            },
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "dimensions": {
+              "width": 617
+            }
+          },
+          "children": [
+            {
+              "id": "I701:728;505:650",
+              "name": "Header Content",
+              "type": "FRAME",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "column",
+                "gap": "30.224998474121094px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "I701:728;505:651",
+                  "name": "Title & Subtitle",
+                  "type": "FRAME",
+                  "fills": [],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "alignSelf": "stretch",
+                    "gap": "15.112499237060547px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:728;505:652",
+                      "name": "Branding | Image making",
+                      "type": "TEXT",
+                      "text": "Branding | Image making ",
+                      "textStyle": {
+                        "fontFamily": "Epilogue",
+                        "fontWeight": 600,
+                        "fontSize": 20,
+                        "lineHeight": "1.5em",
+                        "textAlignHorizontal": "LEFT",
+                        "textAlignVertical": "CENTER"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#2D2D2D",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:728;505:653",
+                      "name": "Visual Designer",
+                      "type": "TEXT",
+                      "text": "Visual Designer",
+                      "textStyle": {
+                        "fontFamily": "Epilogue",
+                        "fontWeight": 600,
+                        "fontSize": 68,
+                        "lineHeight": "1.0249999551212086em",
+                        "textAlignHorizontal": "LEFT",
+                        "textAlignVertical": "CENTER"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#2D2D2D",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:728;505:654",
+                      "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                      "type": "TEXT",
+                      "text": "This is a template Figma file, turned into code using Anima. \nLearn more at AnimaApp.com",
+                      "textStyle": {
+                        "fontFamily": "Epilogue",
+                        "fontWeight": 400,
+                        "fontSize": 17,
+                        "lineHeight": "1.588235294117647em",
+                        "textAlignHorizontal": "LEFT",
+                        "textAlignVertical": "TOP"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#2D2D2D",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:728;505:655",
+                  "name": "Button",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#2D2D2D",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "row",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "gap": "6.296875px",
+                    "padding": {
+                      "top": "15.112499237060547px",
+                      "right": "40.29999923706055px",
+                      "bottom": "15.112499237060547px",
+                      "left": "40.29999923706055px"
+                    },
+                    "sizing": {
+                      "horizontal": "hug",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:728;505:655;505:625",
+                      "name": "Contact",
+                      "type": "TEXT",
+                      "text": "Contact",
+                      "textStyle": {
+                        "fontFamily": "Epilogue",
+                        "fontWeight": 600,
+                        "fontSize": 12.59375,
+                        "lineHeight": "1.5em",
+                        "textAlignHorizontal": "CENTER",
+                        "textAlignVertical": "CENTER"
+                      },
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#FFFFFF",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "hug",
+                          "vertical": "hug"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "I701:728;505:656",
+              "name": "HeaderImage 1",
+              "type": "RECTANGLE",
+              "fills": [
+                {
+                  "type": "IMAGE",
+                  "imageRef": "a2d1b3a41cc9761b3e8b3609af7fffb76a2461f9",
+                  "scaleMode": "FIT"
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "fixed"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "701:729",
+          "name": "Skills Section",
+          "type": "INSTANCE",
+          "fills": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokes": [],
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "20.27812385559082px",
+            "padding": {
+              "top": "20.27812385559082px",
+              "right": "11.587499618530273px",
+              "bottom": "20.27812385559082px",
+              "left": "11.587499618530273px"
+            },
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "dimensions": {
+              "width": 618
+            }
+          },
+          "children": [
+            {
+              "id": "I701:729;505:729",
+              "name": "Cards Section",
+              "type": "FRAME",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "row",
+                "justifyContent": "stretch",
+                "alignItems": "stretch",
+                "alignSelf": "stretch",
+                "wrap": true,
+                "gap": "11.587499618530273px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "I701:729;505:730",
+                  "name": "Skills Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "gap": "20.27812385559082px",
+                    "padding": {
+                      "top": "30.899999618530273px",
+                      "right": "20.27812385559082px",
+                      "bottom": "30.899999618530273px",
+                      "left": "20.27812385559082px"
+                    },
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:729;505:730;505:711",
+                      "name": "Skills Card Icon",
+                      "type": "INSTANCE",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:729;505:730;505:711;505:707",
+                          "name": "Rectangle 19",
+                          "type": "VECTOR",
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#F3AFA8",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        },
+                        {
+                          "id": "I701:729;505:730;505:711;505:708",
+                          "name": "Arrow 3",
+                          "type": "VECTOR",
+                          "fills": [],
+                          "strokes": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokeWeight": 0.7940453290939331,
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I701:729;505:730;505:712",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "5.793749809265137px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:729;505:730;505:713",
+                          "name": "Title",
+                          "type": "TEXT",
+                          "text": "Product Design",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 27,
+                            "lineHeight": "1.5555555555555556em",
+                            "textAlignHorizontal": "CENTER",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "fixed"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:729;505:730;505:714",
+                          "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "type": "TEXT",
+                          "text": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "CENTER",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:729;505:731",
+                  "name": "Skills Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "gap": "20.27812385559082px",
+                    "padding": {
+                      "top": "30.899999618530273px",
+                      "right": "20.27812385559082px",
+                      "bottom": "30.899999618530273px",
+                      "left": "20.27812385559082px"
+                    },
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:729;505:731;505:711",
+                      "name": "Skills Card Icon",
+                      "type": "INSTANCE",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:729;505:731;505:711;505:701",
+                          "name": "Rectangle 21",
+                          "type": "VECTOR",
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#FF6250",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        },
+                        {
+                          "id": "I701:729;505:731;505:711;505:702",
+                          "name": "Arrow 5",
+                          "type": "VECTOR",
+                          "fills": [],
+                          "strokes": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokeWeight": 0.7984576225280762,
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I701:729;505:731;505:712",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "5.793749809265137px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:729;505:731;505:713",
+                          "name": "Title",
+                          "type": "TEXT",
+                          "text": "Visual Design",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 27,
+                            "lineHeight": "1.5555555555555556em",
+                            "textAlignHorizontal": "CENTER",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "fixed"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:729;505:731;505:714",
+                          "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "type": "TEXT",
+                          "text": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "CENTER",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:729;505:732",
+                  "name": "Skills Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "justifyContent": "center",
+                    "alignItems": "center",
+                    "gap": "20.27812385559082px",
+                    "padding": {
+                      "top": "30.899999618530273px",
+                      "right": "20.27812385559082px",
+                      "bottom": "30.899999618530273px",
+                      "left": "20.27812385559082px"
+                    },
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:729;505:732;505:711",
+                      "name": "Skills Card Icon",
+                      "type": "INSTANCE",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:729;505:732;505:711;505:698",
+                          "name": "Rectangle 25",
+                          "type": "VECTOR",
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#009379",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        },
+                        {
+                          "id": "I701:729;505:732;505:711;505:699",
+                          "name": "Arrow 7",
+                          "type": "VECTOR",
+                          "fills": [],
+                          "strokes": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokeWeight": 0.7984579801559448,
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I701:729;505:732;505:712",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "5.793749809265137px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:729;505:732;505:713",
+                          "name": "Title",
+                          "type": "TEXT",
+                          "text": "Art Direction",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 27,
+                            "lineHeight": "1.5555555555555556em",
+                            "textAlignHorizontal": "CENTER",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "fixed"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:729;505:732;505:714",
+                          "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "type": "TEXT",
+                          "text": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "CENTER",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "701:730",
+          "name": "Skills Section",
+          "type": "INSTANCE",
+          "fills": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokes": [],
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "20.27812385559082px",
+            "padding": {
+              "top": "20.27812385559082px",
+              "right": "11.587499618530273px",
+              "bottom": "20.27812385559082px",
+              "left": "11.587499618530273px"
+            },
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "dimensions": {
+              "width": 618
+            }
+          },
+          "children": [
+            {
+              "id": "I701:730;505:722",
+              "name": "Cards Section",
+              "type": "FRAME",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "row",
+                "justifyContent": "stretch",
+                "alignItems": "stretch",
+                "alignSelf": "stretch",
+                "wrap": true,
+                "gap": "11.587499618530273px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "I701:730;505:723",
+                  "name": "Skills Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "row",
+                    "wrap": true,
+                    "gap": "20.27812385559082px",
+                    "padding": {
+                      "top": "30.899999618530273px",
+                      "right": "20.27812385559082px",
+                      "bottom": "30.899999618530273px",
+                      "left": "20.27812385559082px"
+                    },
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:730;505:723;505:716",
+                      "name": "Skills Card Icon",
+                      "type": "INSTANCE",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:723;505:716;505:707",
+                          "name": "Rectangle 19",
+                          "type": "VECTOR",
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#F3AFA8",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:723;505:716;505:708",
+                          "name": "Arrow 3",
+                          "type": "VECTOR",
+                          "fills": [],
+                          "strokes": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokeWeight": 0.40982961654663086,
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I701:730;505:723;505:717",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "gap": "5.793749809265137px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:723;505:718",
+                          "name": "Title",
+                          "type": "TEXT",
+                          "text": "Product Design",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 27,
+                            "lineHeight": "1.5555555555555556em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:723;505:719",
+                          "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "type": "TEXT",
+                          "text": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:730;505:724",
+                  "name": "Skills Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "row",
+                    "wrap": true,
+                    "gap": "20.27812385559082px",
+                    "padding": {
+                      "top": "30.899999618530273px",
+                      "right": "20.27812385559082px",
+                      "bottom": "30.899999618530273px",
+                      "left": "20.27812385559082px"
+                    },
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:730;505:724;505:716",
+                      "name": "Skills Card Icon",
+                      "type": "INSTANCE",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:724;505:716;505:701",
+                          "name": "Rectangle 21",
+                          "type": "VECTOR",
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#FF6250",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:724;505:716;505:702",
+                          "name": "Arrow 5",
+                          "type": "VECTOR",
+                          "fills": [],
+                          "strokes": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokeWeight": 0.7984576225280762,
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I701:730;505:724;505:717",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "gap": "5.793749809265137px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:724;505:718",
+                          "name": "Title",
+                          "type": "TEXT",
+                          "text": "Visual Design",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 27,
+                            "lineHeight": "1.5555555555555556em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:724;505:719",
+                          "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "type": "TEXT",
+                          "text": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "I701:730;505:725",
+              "name": "Cards Section",
+              "type": "FRAME",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "row",
+                "justifyContent": "stretch",
+                "alignItems": "stretch",
+                "alignSelf": "stretch",
+                "wrap": true,
+                "gap": "11.587499618530273px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "I701:730;505:726",
+                  "name": "Skills Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "row",
+                    "wrap": true,
+                    "gap": "20.27812385559082px",
+                    "padding": {
+                      "top": "30.899999618530273px",
+                      "right": "20.27812385559082px",
+                      "bottom": "30.899999618530273px",
+                      "left": "20.27812385559082px"
+                    },
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:730;505:726;505:716",
+                      "name": "Skills Card Icon",
+                      "type": "INSTANCE",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:726;505:716;505:698",
+                          "name": "Rectangle 25",
+                          "type": "VECTOR",
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#009379",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:726;505:716;505:699",
+                          "name": "Arrow 7",
+                          "type": "VECTOR",
+                          "fills": [],
+                          "strokes": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokeWeight": 0.7984579801559448,
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I701:730;505:726;505:717",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "gap": "5.793749809265137px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:726;505:718",
+                          "name": "Title",
+                          "type": "TEXT",
+                          "text": "Art Direction",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 27,
+                            "lineHeight": "1.5555555555555556em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:726;505:719",
+                          "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "type": "TEXT",
+                          "text": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:730;505:727",
+                  "name": "Skills Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "row",
+                    "wrap": true,
+                    "gap": "20.27812385559082px",
+                    "padding": {
+                      "top": "30.899999618530273px",
+                      "right": "20.27812385559082px",
+                      "bottom": "30.899999618530273px",
+                      "left": "20.27812385559082px"
+                    },
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:730;505:727;505:716",
+                      "name": "Skills Card Icon",
+                      "type": "INSTANCE",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fixed",
+                          "vertical": "fixed"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:727;505:716;505:704",
+                          "name": "Rectangle 21",
+                          "type": "VECTOR",
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#F7D684",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:727;505:716;505:705",
+                          "name": "Arrow 5",
+                          "type": "VECTOR",
+                          "fills": [],
+                          "strokes": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokeWeight": 0.7984576225280762,
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {}
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "I701:730;505:727;505:717",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "gap": "5.793749809265137px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:730;505:727;505:718",
+                          "name": "Title",
+                          "type": "TEXT",
+                          "text": "UI/UX",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 27,
+                            "lineHeight": "1.5555555555555556em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:730;505:727;505:719",
+                          "name": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "type": "TEXT",
+                          "text": "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "701:731",
+          "name": "Line 1",
+          "type": "LINE",
+          "fills": [],
+          "strokes": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokeWeight": 1,
+          "layout": {
+            "mode": "none",
+            "sizing": {}
+          }
+        },
+        {
+          "id": "701:732",
+          "name": "Group",
+          "type": "GROUP",
+          "fills": [],
+          "strokes": [],
+          "layout": {
+            "mode": "none",
+            "sizing": {}
+          },
+          "children": [
+            {
+              "id": "701:733",
+              "name": "Vue SVG",
+              "type": "GROUP",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "701:734",
+                  "name": "XMLID 2",
+                  "type": "VECTOR",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#41B883",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "701:735",
+                  "name": "XMLID 3",
+                  "type": "VECTOR",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#41B883",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "701:736",
+                  "name": "XMLID 4",
+                  "type": "VECTOR",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#35495E",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            },
+            {
+              "id": "701:737",
+              "name": "Group 8719",
+              "type": "GROUP",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "701:738",
+                  "name": "HTML5_logo_and_wordmark 1",
+                  "type": "FRAME",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  },
+                  "children": [
+                    {
+                      "id": "701:739",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#FFFFFF",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {}
+                      }
+                    },
+                    {
+                      "id": "701:740",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#E44D26",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {}
+                      }
+                    },
+                    {
+                      "id": "701:741",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#F16529",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {}
+                      }
+                    },
+                    {
+                      "id": "701:742",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#EBEBEB",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {}
+                      }
+                    },
+                    {
+                      "id": "701:743",
+                      "name": "Vector",
+                      "type": "VECTOR",
+                      "fills": [
+                        {
+                          "type": "SOLID",
+                          "hex": "#FFFFFF",
+                          "opacity": 1
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {}
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "701:744",
+              "name": "Group 94",
+              "type": "GROUP",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {}
+              },
+              "children": [
+                {
+                  "id": "701:745",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#61DAFB",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                },
+                {
+                  "id": "701:746",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#61DAFB",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "none",
+                    "sizing": {}
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "701:747",
+          "name": "Portfolio Template",
+          "type": "TEXT",
+          "text": "Portfolio \nTemplate",
+          "textStyle": {
+            "fontFamily": "Epilogue",
+            "fontWeight": 600,
+            "fontSize": 91.4559555053711,
+            "lineHeight": "1.1233292025778918em",
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "CENTER"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokes": [],
+          "layout": {
+            "mode": "none",
+            "sizing": {}
+          }
+        },
+        {
+          "id": "701:748",
+          "name": "Export your designs to HTML code",
+          "type": "TEXT",
+          "text": "Export your designs to HTML code",
+          "textStyle": {
+            "fontFamily": "Epilogue",
+            "fontWeight": 500,
+            "fontSize": 54.064117431640625,
+            "lineHeight": "1.3447029842970062em",
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "CENTER"
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokes": [],
+          "layout": {
+            "mode": "none",
+            "sizing": {}
+          }
+        },
+        {
+          "id": "701:749",
+          "name": "Gallery Section",
+          "type": "INSTANCE",
+          "fills": [
+            {
+              "type": "SOLID",
+              "hex": "#FFFFFF",
+              "opacity": 1
+            }
+          ],
+          "strokes": [],
+          "layout": {
+            "mode": "column",
+            "alignItems": "center",
+            "gap": "20.27812385559082px",
+            "padding": {
+              "top": "20.27812385559082px",
+              "right": "11.587499618530273px",
+              "bottom": "20.27812385559082px",
+              "left": "11.587499618530273px"
+            },
+            "sizing": {
+              "horizontal": "fixed",
+              "vertical": "hug"
+            },
+            "dimensions": {
+              "width": 618
+            }
+          },
+          "children": [
+            {
+              "id": "I701:749;505:668",
+              "name": "Latest work",
+              "type": "TEXT",
+              "text": "Latest work",
+              "textStyle": {
+                "fontFamily": "Epilogue",
+                "fontWeight": 600,
+                "fontSize": 32,
+                "lineHeight": "1.3125em",
+                "textAlignHorizontal": "CENTER",
+                "textAlignVertical": "TOP"
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "hex": "#2D2D2D",
+                  "opacity": 1
+                }
+              ],
+              "strokes": [],
+              "layout": {
+                "mode": "none",
+                "sizing": {
+                  "horizontal": "hug",
+                  "vertical": "hug"
+                }
+              }
+            },
+            {
+              "id": "I701:749;505:669",
+              "name": "Cards Section",
+              "type": "FRAME",
+              "fills": [],
+              "strokes": [],
+              "layout": {
+                "mode": "row",
+                "justifyContent": "stretch",
+                "alignItems": "stretch",
+                "alignSelf": "stretch",
+                "wrap": true,
+                "gap": "11.587499618530273px",
+                "sizing": {
+                  "horizontal": "fill",
+                  "vertical": "hug"
+                }
+              },
+              "children": [
+                {
+                  "id": "I701:749;505:670",
+                  "name": "Gallery Card",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "gap": "11.587499618530273px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:749;505:670;505:687",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "fills": [
+                        {
+                          "type": "IMAGE",
+                          "imageRef": "46acf5070c2b1eabe533e70cdfd6db0920cb88be",
+                          "scaleMode": "FILL"
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "fixed"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:749;505:670;505:688",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "3.862499952316284px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:749;505:670;505:689",
+                          "name": "Project title",
+                          "type": "TEXT",
+                          "text": "Project title",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 20,
+                            "lineHeight": "1.5em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:749;505:670;505:690",
+                          "name": "UI, Art drection",
+                          "type": "TEXT",
+                          "text": "UI, Art drection",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:749;505:671",
+                  "name": "Component 9",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "gap": "11.587499618530273px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:749;505:671;505:687",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "fills": [
+                        {
+                          "type": "IMAGE",
+                          "imageRef": "ae5d91180b98e9e0920120c3b24ffbfe143d83cd",
+                          "scaleMode": "FILL"
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "fixed"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:749;505:671;505:688",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "3.862499952316284px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:749;505:671;505:689",
+                          "name": "Project title",
+                          "type": "TEXT",
+                          "text": "Project title",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 20,
+                            "lineHeight": "1.5em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:749;505:671;505:690",
+                          "name": "UI, Art drection",
+                          "type": "TEXT",
+                          "text": "UI, Art drection",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:749;505:672",
+                  "name": "Component 10",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "gap": "11.587499618530273px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:749;505:672;505:687",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "fills": [
+                        {
+                          "type": "IMAGE",
+                          "imageRef": "3879de03212eab7e4fafca5165c55a151eca4a48",
+                          "scaleMode": "FILL"
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "fixed"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:749;505:672;505:688",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "3.862499952316284px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:749;505:672;505:689",
+                          "name": "Project title",
+                          "type": "TEXT",
+                          "text": "Project title",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 20,
+                            "lineHeight": "1.5em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:749;505:672;505:690",
+                          "name": "UI, Art drection",
+                          "type": "TEXT",
+                          "text": "UI, Art drection",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:749;505:673",
+                  "name": "Component 11",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "gap": "11.587499618530273px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:749;505:673;505:687",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "fills": [
+                        {
+                          "type": "IMAGE",
+                          "imageRef": "7f90acac1fbd66440efa4e3870e0cd0b032f803b",
+                          "scaleMode": "FILL"
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "fixed"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:749;505:673;505:688",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "3.862499952316284px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:749;505:673;505:689",
+                          "name": "Project title",
+                          "type": "TEXT",
+                          "text": "Project title",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 20,
+                            "lineHeight": "1.5em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:749;505:673;505:690",
+                          "name": "UI, Art drection",
+                          "type": "TEXT",
+                          "text": "UI, Art drection",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:749;505:674",
+                  "name": "Component 12",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "gap": "11.587499618530273px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:749;505:674;505:687",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "fills": [
+                        {
+                          "type": "IMAGE",
+                          "imageRef": "b15b0bea6c6f30cc354e8fe19b0d226e83daf314",
+                          "scaleMode": "FILL"
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "fixed"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:749;505:674;505:688",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "3.862499952316284px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:749;505:674;505:689",
+                          "name": "Project title",
+                          "type": "TEXT",
+                          "text": "Project title",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 20,
+                            "lineHeight": "1.5em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:749;505:674;505:690",
+                          "name": "UI, Art drection",
+                          "type": "TEXT",
+                          "text": "UI, Art drection",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "I701:749;505:675",
+                  "name": "Component 13",
+                  "type": "INSTANCE",
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "hex": "#FFFFFF",
+                      "opacity": 1
+                    }
+                  ],
+                  "strokes": [],
+                  "layout": {
+                    "mode": "column",
+                    "gap": "11.587499618530273px",
+                    "sizing": {
+                      "horizontal": "fill",
+                      "vertical": "hug"
+                    }
+                  },
+                  "children": [
+                    {
+                      "id": "I701:749;505:675;505:687",
+                      "name": "Image",
+                      "type": "RECTANGLE",
+                      "fills": [
+                        {
+                          "type": "IMAGE",
+                          "imageRef": "69fd8f8e8891be0346bd7faea3a5ad6130b18107",
+                          "scaleMode": "FILL"
+                        }
+                      ],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "none",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "fixed"
+                        }
+                      }
+                    },
+                    {
+                      "id": "I701:749;505:675;505:688",
+                      "name": "Title & Description",
+                      "type": "FRAME",
+                      "fills": [],
+                      "strokes": [],
+                      "layout": {
+                        "mode": "column",
+                        "alignSelf": "stretch",
+                        "gap": "3.862499952316284px",
+                        "sizing": {
+                          "horizontal": "fill",
+                          "vertical": "hug"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "I701:749;505:675;505:689",
+                          "name": "Project title",
+                          "type": "TEXT",
+                          "text": "Project title",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 600,
+                            "fontSize": 20,
+                            "lineHeight": "1.5em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        },
+                        {
+                          "id": "I701:749;505:675;505:690",
+                          "name": "UI, Art drection",
+                          "type": "TEXT",
+                          "text": "UI, Art drection",
+                          "textStyle": {
+                            "fontFamily": "Epilogue",
+                            "fontWeight": 400,
+                            "fontSize": 17,
+                            "lineHeight": "1.588235294117647em",
+                            "textAlignHorizontal": "LEFT",
+                            "textAlignVertical": "TOP"
+                          },
+                          "fills": [
+                            {
+                              "type": "SOLID",
+                              "hex": "#2D2D2D",
+                              "opacity": 1
+                            }
+                          ],
+                          "strokes": [],
+                          "layout": {
+                            "mode": "none",
+                            "sizing": {
+                              "horizontal": "fill",
+                              "vertical": "hug"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
